@@ -71,8 +71,6 @@
   </tr>
 </table>
 
----
-
   
 <!---
 ---https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg
