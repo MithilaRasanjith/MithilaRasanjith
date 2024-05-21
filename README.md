@@ -43,12 +43,11 @@
 
 <h3 align="center">Contact:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ishanhansakasilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/LinkedIn.svg" alt="ishanhansakasilva" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22502508/ishan-hansaka-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ishan-hansaka-silva" height="50" width="50" /></a>
-<a href="https://twitter.com/Ishanhansaka_" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Twitter.svg" alt="Ishanhansaka_" height="50" width="50" /></a>
-<a href="https://web.facebook.com/IshanHansakaSilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/fb.svg" alt="Ishan Hansaka Silva" height="50" width="50" /></a>
-<a href="https://www.instagram.com/_is.hanz_/" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Instagram.svg" alt="_is.hanz_" height="50" width="50" /></a>
-<a href="https://medium.com/@ishanhansakasilva" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/medium-.svg" alt="@ishanhansakasilva" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mithila-wickrematunge" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/LinkedIn.svg" alt="mithilarasanjith" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/25169602/mithila-rasanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mithila-rasanjith" height="50" width="50" /></a>
+<a href="https://twitter.com/MithilaRasanjith" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Twitter.svg" alt="mithilarasanjith" height="50" width="50" /></a>
+<a href="https://www.facebook.com/mithila.wickramathunga" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/IshanHansaka/icons/fb.svg" alt="Mithila Wickramathunga" height="50" width="50" /></a>
+<a href="https://www.instagram.com/mithila_rasanjith/" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Instagram.svg" alt="mithila_rasanjith" height="50" width="50" /></a>
 </p>
 
 ---
