@@ -18,7 +18,7 @@
   
     </td>
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+      <img align="center" alt="Coding" width="250" src=https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
     </td>
   </tr>
 </table>
