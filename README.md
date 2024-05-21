@@ -23,24 +23,6 @@
   </tr>
 </table>
 
----
-
-<!--- stats -->
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MithilaRasanjith&theme=dark&show_icons=true&count_private=true" />
-      <br><br>
-      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt = "stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MithilaRasanjith&theme=dark&hide_border=false" /> 
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MithilaRasanjith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    </td>
-  </tr>
-</table>
-
----
-
 <h3 align="center">Contact:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mithila-wickrematunge" target="blank"><img align="center" src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/LinkedIn.svg" alt="mithilarasanjith" height="50" width="50" /></a>
@@ -72,6 +54,25 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/IshanHansaka/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/></a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/></a>
+
+  ---
+
+<!--- stats -->
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MithilaRasanjith&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt = "stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MithilaRasanjith&theme=dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MithilaRasanjith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
+
+---
+
   
 <!---
 ---https://github.com/IshanHansaka/skill-icons/blob/main/icons/React-Dark.svg
