@@ -1,9 +1,17 @@
-<h1 align="center">Hello there, I'm Mithila Wickrematunge <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 35px></h1>
+<!--<h1 align="center">Hello there, I'm Mithila Wickrematunge <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height= 35px></h1>-->
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/VipulaNeranjana/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20there,;I'm%20Mithila%20Wickrematunge&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 
 <!--- profile veiws -->
 <p align="center">
   <img width="120px" heigth="120px" src="https://komarev.com/ghpvc/?username=MithilaRasanjith&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" />
 </p>
+
 
 <!--- About -->
 <table align="center">
