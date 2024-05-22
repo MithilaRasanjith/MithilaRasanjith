@@ -10,11 +10,11 @@
   <tr>
     <td width="50%" align="left">
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 1st year Undergraduate at **University of Moratuwa**
   
--  🌱 I’m currently learning MERN and Java
+-  🌱 Currently learning MERN and Java
   
-- 📫 How to reach me **mithilarasanjith@gmail.com**
+- 📫 Reach me -> **mithilarasanjith@gmail.com**
   
     </td>
     <td width="50%" align="center">
