@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" align="left">
 
-- 🧑‍🎓 1st year Undergraduate at **University of Moratuwa**
+- 🧑‍🎓 3rd year Undergraduate at **University of Moratuwa**
   
 -  🌱 Currently learning MERN and Java
   
